@@ -38,7 +38,7 @@
 }
 
 .welcome-div-img {
-    background: url("./src/utils/book background.jpg");
+    background: url("/book background.jpg");
     background-repeat: no-repeat;
     width: 50%;
     height: 500px;

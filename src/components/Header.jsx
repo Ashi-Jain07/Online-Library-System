@@ -6,7 +6,7 @@ function Header() {
         <>
         <div className="header-Div">
            <div>
-              <img src="./src/utils/logo.png" alt="" width="100px" height="100px" /> 
+              <img src="/logo.png" alt="" width="100px" height="100px" /> 
            </div>
            <div>
                <ul className="nav-links">
